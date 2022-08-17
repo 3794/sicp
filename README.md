@@ -1,3 +1,5 @@
+### The purpose of this forked repo is to use html, not xhtml. because xhtml documents cannot use things implemented by html such as chrome extensions.
+
 SICP
 ====
 
